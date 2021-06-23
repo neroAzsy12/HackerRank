@@ -9,4 +9,5 @@
 | Revising the Select Query II | SelectQueryII.sql | Easy |
 | Select All | SelectAll.sql | Easy |
 | Select By ID | SelectByID.sql | Easy |
-| Weather Observation Station I | WeatherObsI.sql | Easy |
+| Weather Observation Station 1 | WeatherObsI.sql | Easy |
+| Weather Observation Station 3 | WeatherObsIII.sql | Easy |
