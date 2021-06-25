@@ -1,7 +1,7 @@
 # SQL Solutions done with MySQL
 
 | Problem | Filename | Difficulty | Subdomain |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Employee Names | EmployeeNames.sql | Easy | Basic Select |
 | Employee Salaries | EmployeeSalaries.sql | Easy | Basic Select |
 | Japan Population | JPNPopulation.sql | Easy | Aggregation |
