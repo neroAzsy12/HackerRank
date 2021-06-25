@@ -11,3 +11,4 @@
 | Select By ID | SelectByID.sql | Easy |
 | Weather Observation Station 1 | WeatherObsI.sql | Easy |
 | Weather Observation Station 3 | WeatherObsIII.sql | Easy |
+| Weather Observation Station 4 | WeatherObsIV.sql | Easy |
