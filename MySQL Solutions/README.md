@@ -3,6 +3,7 @@
 | Problem | Filename | Difficulty |
 | --- | --- | --- |
 | Employee Names | EmployeeNames.sql | Easy |
+| Employee Salaries | EmployeeSalaries.sql | Easy |
 | Japan Population | JPNPopulation.sql | Easy |
 | Japanese Cities' Attributes | JPNCities.sql | Easy |
 | Japanese Cities' Names | JPNCityNames.sql | Easy |
