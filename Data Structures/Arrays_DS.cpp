@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// returns the reversed vector of the input vector a
 vector<int> reverseArray(vector<int> a) {
     for(int i = 0; i < a.size() / 2; i++) {
         int tmp = a[i];
