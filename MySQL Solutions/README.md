@@ -2,6 +2,7 @@
 
 | Problem | Filename | Difficulty | Subdomain |
 | --- | --- | --- | --- |
+| African Cities | AfricanCities.sql | Easy | Basic Join |
 | Employee Names | EmployeeNames.sql | Easy | Basic Select |
 | Employee Salaries | EmployeeSalaries.sql | Easy | Basic Select |
 | Japan Population | JPNPopulation.sql | Easy | Aggregation |
