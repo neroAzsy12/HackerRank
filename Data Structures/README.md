@@ -1,1 +1,7 @@
-[Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem "title" target="_blank")
+# Data Structures Solutions
+
+| Problem | Filename | Difficulty | Subdomain | Language |
+| --- | --- | --- | --- | -- | 
+| [Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem)<a name="Arrays DS"></a> | 
+
+### [Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem)<a name="Arrays DS"></a> | Easy
