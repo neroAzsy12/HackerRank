@@ -1,2 +1,2 @@
-Problem|Topic|Subdomain|Difficulty|Languages
+Topic|Subdomain|Problem|Difficulty|Languages
 ---|---|---|---|---
