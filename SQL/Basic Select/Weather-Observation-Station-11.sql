@@ -7,6 +7,7 @@ SELECT DISTINCT city
 FROM station
 WHERE city REGEXP '^[^aeiou]|[^aeiou]$';
 
+-- Query 2
 SELECT DISTINCT city
 FROM station
 WHERE city REGEXP '^[^aeiou]' OR city REGEXP '[^aeiou]$';
