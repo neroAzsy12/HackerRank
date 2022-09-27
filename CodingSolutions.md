@@ -1,5 +1,22 @@
 Problem|Topic|Subdomain|Difficulty|Languages
 ---|---|---|---|---
+Average Population|SQL|Aggegation|Easy|SQL
+Japan Population|SQL|Aggegation|Easy|SQL
+Population Density Difference|SQL|Aggegation|Easy|SQL
+Revising Aggregations Averages|SQL|Aggegation|Easy|SQL
+Revising Aggregations The Count Function|SQL|Aggegation|Easy|SQL
+Revising Aggregations The Sum Function|SQL|Aggegation|Easy|SQL
+The Blunder|SQL|Aggegation|Easy|SQL
+Top Earners|SQL|Aggegation|Easy|SQL
+Weather Observation Station 13|SQL|Aggegation|Easy|SQL
+Weather Observation Station 14|SQL|Aggegation|Easy|SQL
+Weather Observation Station 15|SQL|Aggegation|Easy|SQL
+Weather Observation Station 16|SQL|Aggegation|Easy|SQL
+Weather Observation Station 17|SQL|Aggegation|Easy|SQL
+Weather Observation Station 18|SQL|Aggegation|Easy|SQL
+Weather Observation Station 19|SQL|Aggegation|Easy|SQL
+Weather Observation Station 2|SQL|Aggegation|Easy|SQL
+Weather Observation Station 20|SQL|Aggegation|Easy|SQL
 Employee Names|SQL|Basic Select|Easy|SQL
 Employee Salaries|SQL|Basic Select|Easy|SQL
 Higher Than 75 Marks|SQL|Basic Select|Easy|SQL
@@ -20,12 +37,3 @@ Weather Observation Station 6|SQL|Basic Select|Easy|SQL
 Weather Observation Station 7|SQL|Basic Select|Easy|SQL
 Weather Observation Station 8|SQL|Basic Select|Easy|SQL
 Weather Observation Station 9|SQL|Basic Select|Easy|SQL
-
-Average Population|SQL|Aggegation|Easy|SQL
-Japan Population|SQL|Aggegation|Easy|SQL
-Population Density Difference|SQL|Aggegation|Easy|SQL
-Revising Aggregations Averages|SQL|Aggegation|Easy|SQL
-Revising Aggregations The Count Function|SQL|Aggegation|Easy|SQL
-Revising Aggregations The Sum Function|SQL|Aggegation|Easy|SQL
-The Blunder|SQL|Aggegation|Easy|SQL
-Average Population|SQL|Aggegation|Easy|SQL
