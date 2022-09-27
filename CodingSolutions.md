@@ -18,6 +18,9 @@ Weather Observation Station 17|SQL|Aggegation|Easy|SQL
 Weather Observation Station 18|SQL|Aggegation|Medium|SQL
 Weather Observation Station 19|SQL|Aggegation|Medium|SQL
 Weather Observation Station 20|SQL|Aggegation|Medium|SQL
+African Cities|SQL|Basic Join|Easy|SQL
+Average Population of Each Continent|SQL|Basic Join|Easy|SQL
+Population Census|SQL|Basic Join|Easy|SQL
 Employee Names|SQL|Basic Select|Easy|SQL
 Employee Salaries|SQL|Basic Select|Easy|SQL
 Higher Than 75 Marks|SQL|Basic Select|Easy|SQL
