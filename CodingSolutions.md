@@ -1,6 +1,7 @@
 Problem|Topic|Subdomain|Difficulty|Languages
 ---|---|---|---|---
 The PADS|SQL|Advanced Select|Medium|SQL
+Type of Triangle|SQL|Advanced Select|Easy|SQL
 Average Population|SQL|Aggegation|Easy|SQL
 Japan Population|SQL|Aggegation|Easy|SQL
 Population Density Difference|SQL|Aggegation|Easy|SQL
